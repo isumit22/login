@@ -19,7 +19,7 @@ const userRoles: UserRoleCard[] = [
     title: 'SWACHH',
     subtitle: 'Citizen Portal',
     description: 'Manage your household waste, track your eco-friendly contributions, and earn rewards for a greener community.',
-    redirectUrl: 'https://project-sih-lemon.vercel.app/login',
+    redirectUrl: 'https://project-sih-lemon.vercel.app/',
     gradientFrom: 'from-green-500',
     gradientTo: 'to-emerald-600'
   },
